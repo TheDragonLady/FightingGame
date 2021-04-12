@@ -1,0 +1,34 @@
+Don't panic.
+
+
+GROUP PROJECT ASPECTS-
+
+Include all group submission information in the "Project Submission" folder. This should include the following:
+	a. Links to all online materials, edited into the included text document.
+	b. Production plan documentation- whatever form(s) that takes.
+	c. Marketing plan documentation- whatever form(s) that takes.
+
+Your group's itch.io page should include your trailer, screenshots, logline, and description. The logline and description should be accurate.
+
+Your Unity project can be hosted on your itch.io page as a separate download, 
+but it can also (preferably) be hosted on the server, or it can optionally be hosted in a publicly-accessible git project that can be cloned. 
+The project and the game should match. While obvious failure should not occur, you do not need to run "without error in the editor." Be sure to double-check and correctly attribute anything from another source, preferably within the game's credits. Be sure that your project materials can be downloaded by someone who is not in your group! Projects will be copied on Tuesday morning and placed in a zip folder, and all marking will relate to those downloads.
+
+Everyone in every group needs to add all of these parts to their submission, though for some folks this may simply be the server's folder address.
+
+
+PERSONAL PROJECT ASPECTS-
+
+Include all personal submission information in the "Personal Submission" folder. This should include the following:
+	a. Link to your development blog, edited into the included text document. Be sure there are at least six good entries. One should be written after the game is released, discussing the release. Message me if you are worried you will not make that threshold.
+	b. A copy of your reflection document, in .PDF format.
+
+The development blog should be publicly-accessible and should highlight your work on the project, in the context of the group.
+
+The reflection document should discuss the following six primary aspects (2000-3000 words total):
+	a. What the game was planned to be.
+	b. Your responsibilities and priorities.
+	c. What went wrong during development.
+	d. What went right during development.
+	e. What the game ended up being.
+	f. What you have learned from the experience.

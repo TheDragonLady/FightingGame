@@ -1,0 +1,18 @@
+
+
+Game itch.io page:
+
+https://iron-brawlers.itch.io/iron-brawlers-alpha-test-version
+password: ironbrawlers
+
+
+Presskit download URL / folder location on the server:
+
+S:\GM-WGN\2004-WN-GAD-Y2\HandIns\Production\Weeklies\WEEK 20 - FINAL\Iron Brawlers Submission Folder\Iron Brawlers - Press Kit
+
+
+Unity Project download URL / folder location on the server:
+
+S:\GM-WGN\2004-WN-GAD-Y2\HandIns\Production\Weeklies\WEEK 20 - FINAL\Iron Brawlers Submission Folder\Iron Brawlers - Unity Project
+
+
